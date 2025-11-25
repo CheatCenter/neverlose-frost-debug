@@ -1,2 +1,2 @@
-# angelwings-lua-gs
-Gamesense Angelwings Lua dumped by kursa for rollmops
+# Frost Debug Lua
+Frost Debug Lua dumped by kursa for rollmops
